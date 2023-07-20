@@ -1,6 +1,7 @@
 # quotes_genrater
 # Positive Message Generator
 
+
 This is a simple Python application that generates positive messages for encouragement and motivation. The messages are randomly selected from a list of positive quotes related to overcoming alcoholism and maintaining sobriety. The user can click the "Quotes" button to generate a new random positive message.
 
 ## Getting Started
@@ -51,6 +52,11 @@ pip install tk
 4. The messages are designed to provide encouragement, motivation, and support for individuals on their sobriety journey.
 
 5. To quit the application, click the "Quit" button at the bottom of the window.
+
+
+Here is the screenshot of the Positive Message Generator:
+![**Positive Message Generator**](https://github.com/ganeshnikhil/quotes_genrater/blob/main/Screenshot%202023-07-20%20at%208.07.54%20PM.png)
+
 
 ## License
 
