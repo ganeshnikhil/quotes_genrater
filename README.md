@@ -54,7 +54,7 @@ pip install tk
 5. To quit the application, click the "Quit" button at the bottom of the window.
 
 
-Here is the screenshot of the Positive Message Generator:
+#Here is the screenshot of the Positive Message Generator:
 ![**Positive Message Generator**](https://github.com/ganeshnikhil/quotes_genrater/blob/main/Screenshot%202023-07-20%20at%208.07.54%20PM.png)
 
 
